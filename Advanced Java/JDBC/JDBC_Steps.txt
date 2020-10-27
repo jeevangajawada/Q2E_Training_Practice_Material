@@ -1,0 +1,13 @@
+Any website reference where we can find the different connection strings and jar to be used for all databases?
+docs.oracle.com
+
+
+Just wanted to clarify whether the below are the steps involved in JDBC are correct ?
+
+1) Start the Apache and Database(MySQL) server
+2) Java/Java EE Perspective -> Create a Java project for JDBC and create package and class
+3) Add the 'mysql...' Jar to the build path (For every database the jar file differs)
+4) Start the main database connection code and perform the select/update/delete etc.,
+
+
+Is it mandatory that we have to start the server manually everytime, Can we launch this automatically using java code ?
