@@ -1,0 +1,9 @@
+Deliverables
+------------
+GitHub Link
+Database scehema (.sql)
+
+
+Importing the template project:
+-------------------------------
+Import as Maven Project
