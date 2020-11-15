@@ -17,4 +17,8 @@ Editor:
 ------
 http://brackets.io/
 
+Special Characters in Html:
+--------------------------
+https://dev.w3.org/html5/html-author/charref
+
 
