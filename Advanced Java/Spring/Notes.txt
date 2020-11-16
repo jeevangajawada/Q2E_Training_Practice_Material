@@ -1,0 +1,4 @@
+https://repo.spring.io/release/org/springframework/spring/
+
+
+Jar files of the standard spring is available in the above link
