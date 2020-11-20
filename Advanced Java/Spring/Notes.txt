@@ -11,4 +11,4 @@ https://docs.spring.io/spring-framework/docs/current/reference/html/
 
 Topics:
 ------
-Form Handling detailed explanation of all test ovjects - Spring Way - 20 Nov 2020
+Form Handling detailed explanation of all test objects with JSTL- Spring Way - 20 Nov 2020
