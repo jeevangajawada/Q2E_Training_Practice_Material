@@ -9,6 +9,16 @@ https://docs.spring.io/spring-framework/docs/current/reference/html/
 
 
 
-Topics:
+
+20 Nov 2020
+-----------
+
+Topic:
 ------
-Form Handling detailed explanation of all test objects with JSTL- Spring Way - 20 Nov 2020
+Form Handling detailed explanation of all test objects with JSTL- Spring.
+Along with Hibernate
+
+Java Projects:
+--------------
+maven-web-spring-forms
+maven-web-spring-forms-validation
