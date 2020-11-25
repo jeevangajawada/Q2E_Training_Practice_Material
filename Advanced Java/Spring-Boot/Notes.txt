@@ -1,0 +1,3 @@
+bootapp            - Basic Spring Web Project
+bootapp-jsp        - Spring Web with JSP and JSTL
+bootapp-jsp-secure - Spring Security project
