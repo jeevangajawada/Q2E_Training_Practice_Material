@@ -1,0 +1,5 @@
+We have to run this project also as Java Application
+
+Info:
+-----
+Java to JSON - GetterJSON to Java - Setter
